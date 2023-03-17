@@ -1,0 +1,452 @@
+SCHEDULE 27 
+DISPUTE RESOLUTION PROCEDURE 
+1. General 
+1.1 Subject to Sections 1.4 and 1.5, all disputes, controversies, or claims arising out of or relating to any provision of the Project Agreement, or the alleged wrongful exercise or failure to exercise by a Party of a discretion or power given to that Party under the Project Agreement, or the interpretation, enforceability, performance, breach, termination, or validity of the Project Agreement, including this Schedule 27, or any matter referred to for resolution pursuant to this Schedule 27 (collectively and individually, a “Dispute”) shall be resolved in accordance with the provisions of this Schedule 27. 
+1.2 The Parties agree that at all times, both during and after the Project Term, each of them will make bona fide efforts to: 
+(a) 
+resolve by amicable negotiations any and all Disputes arising between them on a without prejudice basis; and 
+
+(b) 
+have all Disputes resolved at the lowest level of management before engaging the dispute resolution processes described in Sections 2 to 9. 
+
+
+1.3 If the Parties are unable to resolve a Dispute at the lowest level of management pursuant to Section 1.2(b), either Party may deliver to the HMQ Representative or the Project Co Representative, as applicable, a written Notice of dispute (the “Notice of Dispute”), which Notice of Dispute shall, subject to the terms of this Schedule 27 requiring resolution of a Dispute pursuant to a specific dispute resolution process set forth in this Schedule 27, initiate the dispute resolution process described in Sections 2 to 9, as applicable, as more particularly described in this Schedule 27. To be effective, the Notice of Dispute must expressly state that it is a notice of dispute, set out the particulars of the matter in dispute, describe the remedy or resolution sought by the Party issuing the Notice of Dispute and be signed by the HMQ Representative, if given by HMQ Entities, or by the Project Co Representative, if given by Project Co. 
+1.4 Notwithstanding anything to the contrary in this Project Agreement, the Parties acknowledge and agree that, pursuant to the Claims Resolution and Acceleration Agreement, the Resolved Claims, Issues and Disputes have been fully and finally resolved, released and settled, and, accordingly, Project Co shall not be entitled to classify as a “Dispute”, submit a written “Notice of Dispute” (as such term is defined in the Claims Resolution and Acceleration Agreement), or dispute or claim in any other manner with respect to any of the Resolved Claims, Issues and Disputes. 
+1.5 Notwithstanding anything to the contrary in this Project Agreement, the Parties acknowledge and agree that, pursuant to the Claims Resolution and Acceleration Agreement, Project Co agrees to the following waivers, irrespective of facts, events or circumstances which were known or unknown to Project Co as of the Resolution Date: 
+Confidential – Economic Interests of Ontario Page 2 
+This document must not be copied or reproduced in any manner without the written permission of Ontario Infrastructure and Lands Corporation. Queen’s Printer for Ontario © Copyright 2015. 
+(a) 
+Project Co hereby waives all rights of any kind whatsoever, to claim at any time now or in the future, in any Dispute Resolution Procedure, legal action, or otherwise, that Project Co was not aware, during the procurement process and prior to the execution of the Project Agreement, of reservations and concerns of THESL with respect to, 
+
+(i) 
+the use of support-in-place as a construction methodology to deal with THESL infrastructure; 
+
+(ii) 
+the risk that support-in-place posed to the provision of power to a significant number of customers; or 
+
+
+(iii) the importance of acceptable reconnection time frames in the event of a Project Co Project incident or accident impacting THESL infrastructure; 
+
+(b) 
+Project Co hereby waives all rights of any kind whatsoever, to claim at any time now or in the future, in any Dispute Resolution Procedure, legal action, or otherwise, that HMQ Entities, prior to the Resolution Date, failed to meet their obligations pursuant to the Project Agreement with respect to cooperating with, or providing assistance to, Project Co related to: 
+
+(i) 
+Permits, Licences or Approvals; or 
+
+(ii) 
+reviews and/or approvals of Project Co Works Submittals, or other submissions, by the TTC or THESL; 
+
+
+
+(c) 
+Project Co hereby waives all rights of any kind whatsoever, to claim at any time now or in the future, in any Dispute Resolution Procedure, legal action, or otherwise, that, 
+
+(i) 
+HMQ Entities misrepresented the probability or likelihood that Project Co could use, or that THESL would or would not approve the use of, support-in-place as a construction methodology to deal with THESL infrastructure, or made a misrepresentation of any kind whatsoever with respect to THESL or the THESL infrastructure; or 
+
+(ii) 
+HMQ Entities represented or warranted that Project Co was permitted to use support-in-place as a construction methodology to deal with THESL infrastructure; and 
+
+
+
+(d) 
+With respect to the Works carried out or to be carried out by Project Co under the Project Agreement, Project Co hereby waives all rights of any kind whatsoever, to claim at any time now or in the future, in any Dispute Resolution Procedure, legal action, or otherwise, that Project Co has experienced a Delay Event or a Compensation Event pursuant to Section 16.2 of the Project Agreement or any other event for which Project Co is entitled to relief under the Project Agreement related to Contamination. For clarity, 
+
+
+Confidential – Economic Interests of Ontario Page 3 
+This document must not be copied or reproduced in any manner without the written permission of Ontario Infrastructure and Lands Corporation. Queen’s Printer for Ontario © Copyright 2015. 
+this Section 1.5(d) does not amend the risk allocation set out in the Project Agreement in respect of Contamination as it relates to the Maintenance and Rehabilitation Services. 
+Accordingly, Project Co shall notbe entitled to classify as a “Dispute”, submit a written “Notice of Dispute” (as such term is defined in the Claims Resolution and Acceleration Agreement), or 
+dispute or claim in any other manner with respect to any of the matters set out in this Section 1.5. 
+
+2. Amicable Resolution by Party Representatives 
+2.1 On receipt of a Notice of Dispute, the HMQ Representative and the Project Co Representative 
+(collectively “Party Representatives” and individually “Party Representative”) shall each 
+promptly and diligently make all reasonable bona fide efforts to resolve the Dispute. Each Party Representative shall provide to the other, on a without prejudice basis, frank, candid and timely disclosure of relevant facts, information and documents (except such documentation that is subject to legal privilege) as may be required or reasonably requested by the other to facilitate the resolution of the Dispute. 
+
+
+3. Amicable Resolution by Senior Officers of each Party 
+3.1 If, following the process referred to in Section 2 (or as otherwise agreed to in writing by the Parties pursuant to Section 13.6), a Dispute is not resolved by the Party Representatives within 10 Business Days after receipt by a Party of the applicable Notice of Dispute, or within such longer period of time as the Party Representatives may both expressly agree, then at any time after the expiry of such period of time either Party Representative may, by Notice in writing to the other, refer the Dispute to an executive of a Party who: 
+(a) 
+is in a position of authority above that of the HMQ Representative or the Project Co Representative, as the case may be; and 
+
+(b) 
+subject only to approval of the board of directors or similar governing body of the Party, has full authority to resolve and settle the Dispute. 
+
+
+3.2 
+Once a Dispute is referred to them, the executive of each Party shall promptly and diligently make all reasonable bona fide efforts to resolve the Dispute. All discussions and negotiations, and all documents exchanged, between them related to the Dispute shall be on a without prejudice basis to facilitate the resolution of the Dispute. 
+
+4. 
+Independent Certifier 
+
+
+4.1 This Section 4 applies to all Disputes that fall within the description of Section 4.2 that cannot be resolved as provided in Sections 2 and 3 or as otherwise agreed to in writing by the Parties pursuant to Section 13.6. 
+4.2 All Disputes related to the Works and that: 
+Confidential – Economic Interests of Ontario Page 4 
+This document must not be copied or reproduced in any manner without the written permission of Ontario Infrastructure and Lands Corporation. Queen’s Printer for Ontario © Copyright 2015. 
+(a) 
+arise prior to, or otherwise in relation to Substantial Completion; 
+
+(b) 
+relate to completion of Minor Deficiencies; 
+
+(c) 
+relate to whether any proposed work constitutes a Variation; 
+
+(d) 
+relate to a review of Estimates or any other matters relating to Variations as the Independent Certifier is entitled to review and determine pursuant to Section 39 of the Project Agreement; 
+
+(e) 
+are referred to in the Project Agreement for determination by the Independent Certifier; or 
+
+(f) 
+relate to the Certification Services or any Certification Services Variations (as those terms are defined in the Independent Certifier Agreement), 
+
+
+shall initially be submitted to the Independent Certifier for independent determination by the Independent Certifier within such period as may be specified in the Project Agreement, or if no period is specified, within 10 Business Days after submission to the Independent Certifier. 
+4.3 Without limiting any obligations of the Parties under the Independent Certifier Agreement, the Parties shall cooperate with the Independent Certifier and provide such information, records and documents as may be required by the Independent Certifier to make the determination within the period referred to in Section 4.2. 
+4.4 The Independent Certifier’s decision to issue or not to issue a Substantial Completion Certificate shall be final and binding on the Parties solely in respect of determining the Substantial Completion Payment Commencement Date, and a Dispute in relation to the Substantial Completion Payment Commencement Date shall not be subject to resolution pursuant to this Schedule 27. Save and except as aforesaid, the Independent Certifier’s determinations are not binding on the Parties, and all Disputes in relation to the Independent Certifier’s decisions shall be resolved pursuant to this Schedule 27, provided however that Sections 5 and 6 shall not apply unless otherwise agreed by the Parties on terms acceptable to the Parties. 
+5. Expert Determination 
+5.1 If, following the process referred to in Section 2 and 3 (or as otherwise agreed to in writing by the Parties pursuant to Section 13.6), any Dispute as to: 
+(a) 
+whether a Liquid Market exists; 
+
+(b) 
+whether amendments proposed by potentially Qualifying Tenders to the Project Agreement or other Project Documents are material; 
+
+(c) 
+the Adjusted Highest Qualifying Tender Price; 
+
+
+Confidential – Economic Interests of Ontario Page 5 
+This document must not be copied or reproduced in any manner without the written permission of Ontario Infrastructure and Lands Corporation. Queen’s Printer for Ontario © Copyright 2015. 
+(d) 
+the determination of the Estimated Fair Value in accordance with Schedule 23 – Compensation on Termination of the Project Agreement; or 
+
+(e) 
+whether Project Co has achieved all necessary prerequisites, credits and points under the LEED Rating System in accordance with the specific requirements under the Project Agreement to achieve LEED Silver Rating, 
+
+
+has not been resolved within 10 Business Days after the date the Dispute was referred to the executives of the Parties for resolution by them, or within such longer period of time as the executives may expressly agree in writing in respect of a specific Dispute to allow them to continue their efforts to resolve the Dispute, then either Party may at any time thereafter, by written Notice signed by their Party Representative and delivered to the other Party Representative, require that the Dispute be resolved on an expedited basis by a qualified and 
+experienced expert (the “Expert”). 
+5.2 The Expert shall be appointed as follows: 
+(a) 
+if the Parties agree on the Expert, the Parties shall jointly appoint the Expert as soon as possible and, in any event, within 5 Business Days after delivery of the Notice requiring that the Dispute be resolved by an Expert; and 
+
+(b) 
+if the Parties fail to agree or jointly appoint the Expert within such 5 Business Day period, either Party may apply to the Ontario Superior Court of Justice for appointment of the Expert, in which case the court shall appoint the Expert at the earliest opportunity from the list of potential Experts submitted by the Parties or, if either or both Parties fail to submit their list of potential Experts within 7 Business Days, the court may appoint such person as the Expert who meets the requirements set out in this Schedule 27 for qualifications and experience of the Expert. 
+
+
+5.3 No one shall be nominated or appointed to act as an Expert who is or was in any way interested, financially or otherwise, in the conduct of the Project Operations or in the business affairs of HMQ Entities, Project Co, or any consultant, subconsultant or subcontractor of any of them. 
+5.4 Subject to the matters the Expert is authorized to determine pursuant to Section 5.1, the Expert will be appointed on a Dispute by Dispute basis, with each Expert having the qualifications and experience relevant to the issues in the particular Dispute for which the Expert is appointed. 
+5.5 The Expert shall determine the appropriate process for timely and cost effective resolution of the Dispute and, without limiting the generality of the foregoing, the Expert has discretion to, among other things: 
+(a) 
+solicit submissions and documents from both Parties, and impose deadlines for the receipt of such submissions; 
+
+(b) 
+require some or all of the evidence to be provided by affidavit; 
+
+
+Confidential – Economic Interests of Ontario Page 6 
+This document must not be copied or reproduced in any manner without the written permission of Ontario Infrastructure and Lands Corporation. Queen’s Printer for Ontario © Copyright 2015. 
+(c) 
+direct either or both Parties to prepare and provide the Expert with such documents, test results or other things as the Expert may require to assist the Expert in the resolution of the Dispute and rendering of a decision; 
+
+(d) 
+require either Party to supply or prepare for examination by the Expert and the other Party, any document or information the Expert considers necessary; 
+
+(e) 
+inspect the Project Operations, giving reasonable Notice to each Party of the time when, and the place where, the Expert intends to conduct any inspections; 
+
+(f) 
+convene meetings of the Parties to have the Parties discuss the issues in Dispute in the presence of the Expert; and 
+
+(g) 
+take, or require either or both Parties to take and provide to the Expert, such measurements, perform such tests, audit such processes and procedures, and take any and all such other measures and steps as the Expert considers necessary to make a final determination in the Dispute. 
+
+
+5.6 The Expert shall render a decision as soon as possible and, in any event, shall use all reasonable efforts to render a decision no later than 10 Business Days after the date of the appointment of the Expert, or such longer period of time as agreed to in writing by the Parties. The Expert shall give reasons or a summary of reasons for the Expert’s decision. 
+5.7 The Expert shall keep all information about the Dispute confidential and shall not disclose such information to anyone other than the Parties. 
+5.8 Each Party shall bear its own costs of the process for resolution of the Dispute by the Expert. In addition, the costs of the Expert shall be borne equally by the Parties. 
+5.9 Subject to a right to require the Dispute to be arbitrated or litigated pursuant to Sections 7, 8 and 9 by giving the required Notices to arbitrate or litigate within the time periods specified therein, the Parties agree that the Expert’s determination shall be final and binding on both Parties and not subject to appeal, adjudication, arbitration, litigation or any other dispute resolution process, and both Parties expressly waive all rights of appeal in connection with the Expert’s determination. For greater certainty, the final determination by the Expert shall not be referred to an Adjudicator (as defined below) for determination under Section 6. 
+6. Adjudication 
+6.1 If, the Parties fail to resolve any Dispute through the process referred to in Section 2 and 3 within 15 Business Days following referral of the Dispute to an executive in accordance with Section 3.1 (or such other period as may be agreed or expressly stipulated in respect of the relevant matter) and it is not a Dispute referred to in Sections 4.2 or 5.1 or a Dispute referred to arbitration or litigation pursuant to Sections 4.4 or 5.9 (except as otherwise agreed to in writing by the Parties 
+Confidential – Economic Interests of Ontario Page 7 
+This document must not be copied or reproduced in any manner without the written permission of Ontario Infrastructure and Lands Corporation. Queen’s Printer for Ontario © Copyright 2015. 
+pursuant to Section 13.6), either Party may refer the Dispute to a single adjudicator selected in accordance with Section 6.2 (the “Adjudicator”). 
+6.2 The Adjudicator nominated by the Party issuing the Notice of Dispute shall be agreed between the Parties or, failing agreement, shall be determined by the Ontario Superior Court of Justice (following an application thereto by the Party issuing the Notice of Dispute) and shall: 
+(a) 
+be independent of and at arm’s length to Project Co, HMQ Entities, the Lenders and any other person having an interest in the Project Operations or any of the Project Documents; 
+
+(b) 
+if the Dispute arises during the Project Term, be familiar with the construction, operation and management of rail transportation projects; and 
+
+(c) 
+be a person who has the qualifications and experience with respect to the particular issues in Dispute. 
+
+
+6.3 The Adjudicator shall resolve the Dispute in accordance with the United Kingdom Construction Industry Council’s Model Adjudication Procedure: Fourth Edition the terms of which are incorporated herein by reference, subject to the following modifications: 
+(a) 
+notwithstanding paragraph 14 of the Model Adjudication Procedure, within 7 Business Days of appointment in relation to a particular Dispute, the Adjudicator shall require the Parties to submit in writing their respective arguments; provided that, where necessary, the onus of proving that the Project Co System Infrastructure and/or the New Third Party Infrastructure is operating in accordance with all relevant specifications and requirements set forth in the Project Agreement is on Project Co.  The Adjudicator shall, in his absolute discretion, determine the procedure of the adjudication proceedings including whether a hearing is necessary in order to resolve the Dispute; 
+
+(b) 
+notwithstanding paragraphs 16 and 24 of the Model Adjudication Procedure, in any event, and subject to Section 6.4, the Adjudicator shall provide to both Parties his written decision on the Dispute, within 10 Business Days of appointment (or within such other period as the Parties may agree after the reference). The Adjudicator shall give detailed 
+
+
+reasons for the Adjudicator’s decision. The Adjudicator shall be entitled to award 
+compensation to a Party and shall be entitled to state the relief for such Party, which may include deeming the occurrence of any Relief Event, Delay Event, Compensation Event and/or Excusing Cause. Unless otherwise provided for in this Schedule 27, the 
+Adjudicator’s decision shall be binding on the Parties, but not final; 
+(c) notwithstanding paragraphs 29 and 30 of the Model Adjudication Procedure, the 
+Adjudicator’s costs, including any legal fees, of any reference shall be borne as the 
+Adjudicator shall specify or in default, equally by the Parties. In no circumstances shall the Adjudicator be entitled to order a successful or partially successful Party in an 
+adjudication to pay more than one half of the Adjudicator’s fees. Each Party shall bear 
+Confidential – Economic Interests of Ontario Page 8 
+This document must not be copied or reproduced in any manner without the written permission of Ontario Infrastructure and Lands Corporation. Queen’s Printer for Ontario © Copyright 2015. 
+its own costs arising out of the reference, including legal costs and the costs and expenses of any witnesses; 
+(d) 
+the Adjudicator shall be deemed not to be an arbitrator but shall render his decision as an expert and the provisions of the Arbitration Act, 1991 (Ontario) and the law relating to arbitration shall not apply to the Adjudicator or his determination or the procedure by which he reached his determination; 
+
+(e) 
+notwithstanding paragraph 26 of the Model Adjudication Procedure, the Adjudicator shall act impartially and may take the initiative in ascertaining the facts and the law. Unless otherwise expressly provided in the Project Agreement, the Adjudicator shall have the power to open up, review and revise any opinion, certificate, instruction, determination or decision of whatever nature given under the Project Agreement. For greater certainty, the Independent Certifier’s decision to issue or not to issue a Substantial Completion Certificate shall be final and binding solely in respect of determining the Substantial Completion Payment Commencement Date, and a Dispute in relation to the Substantial Completion Payment Commencement Date shall not be subject to resolution pursuant to this Schedule 27; 
+
+(f) 
+the Adjudicator shall execute a non-disclosure agreement (the “Non-Disclosure Agreement”) in a form satisfactory to the Parties, providing that, among other things, all information, data and documentation disclosed or delivered by a Party to the Adjudicator in consequence of or in connection with his appointment as the Adjudicator shall be treated as confidential and without prejudice to any potential litigation proceedings. The Adjudicator shall not, save except as expressly permitted by the Non-Disclosure Agreement, disclose to any person any such information, data or documentation, and all such information, data or documentation shall remain the property of the Party disclosing or delivering the same and all copies shall be returned to such Party on completion of the 
+
+
+Adjudicator’s mandate with respect to the Dispute; and 
+(g) notwithstanding paragraph 34 of the Model Adjudication Procedure, the Adjudicator shall not be liable for anything done or omitted to be done in the discharge or purported discharge of his functions as Adjudicator unless the act or omission is in bad faith. Any employee or agent of the Adjudicator is similarly protected from liability. 
+6.4 Where it is determined by the Adjudicator that: 
+(a) 
+corrective measures must be taken by Project Co to resolve a Dispute, those measures must be implemented by Project Co as soon as reasonably practical, without payment by HMQ Entities unless (i) the Adjudicator determines otherwise; or (ii) that determination is subsequently reversed by a binding and final determination made in a court proceeding; and 
+
+(b) 
+corrective measures are not required to be taken by Project Co to resolve a Dispute, HMQ Entities may, at their option, require corrective measures to be taken forthwith by Project 
+
+
+Confidential – Economic Interests of Ontario Page 9 
+This document must not be copied or reproduced in any manner without the written permission of Ontario Infrastructure and Lands Corporation. Queen’s Printer for Ontario © Copyright 2015. 
+Co, in which case those measures must be implemented by Project Co as soon as reasonably practical provided that HMQ Entities undertake to pay Project Co for Direct Costs, plus reasonable overhead and profit incurred by Project Co as such costs are so incurred; provided that no such costs should exceed the amount Project Co is entitled to receive pursuant to Schedule 22 – Variation Procedure thereby incurred upon completion of those corrective measures, but any such undertaking and payment shall be without prejudice to HMQ Entities’ right to contest the determination made by the Adjudicator in a subsequent proceeding. HMQ Entities shall provide Project Co such reasonable extensions of time in respect of Project Co’s obligations under this Agreement necessary to allow Project Co to effect the corrective measures and such extension of time may be treated as a Delay Event or an Excusing Cause, as applicable, if so determined by the Adjudicator. 
+6.5 Subject to a right to require the Dispute to be arbitrated or litigated pursuant to Sections 7, 8 and 9 by giving the required Notices to arbitrate or litigate within the time periods specified therein, the Parties agree that the Adjudicator’s determination is final and binding and not subject to appeal, arbitration, litigation or any other dispute resolution process, and both Parties expressly waive all rights of appeal in connection with the Adjudicator’s determination. 
+7. Referral of Disputes to Arbitration or Litigation 
+7.1 If: 
+(a) 
+the amount awarded by the Expert to a Party pursuant to Section 5 or by the Adjudicator pursuant to Section 6 is more than $500,000 (index linked) in the aggregate or $150,000 (index linked) in any one year; 
+
+(b) 
+the Dispute involves issues other than monetary claims by one Party against the other Party and which a Party reasonably believes are material and significant to that Party; or 
+
+(c) 
+a Notice of Dispute has been issued for a Dispute in relation to the Independent Certifier’s decisions for which Section 4.4 provides that Sections 5 and 6 shall not apply to resolve such Dispute, 
+
+
+then, subject to the right of a Party to require litigation of the Dispute pursuant to Section 9.1 or a consolidation of proceedings pursuant to Section 11, either Party may, by written Notice signed by their Party Representative, request that the Dispute be resolved by arbitration pursuant to Section 8 upon the written consent of the other Party. Such Notice will not be effective unless it indicates it is a Notice to arbitrate, is signed by the Party Representative and is delivered to the 
+other Party Representative within 15 Business Days after receipt of the Expert’s determination, the Adjudicator’s decision or the Notice of Dispute referred to in Section 7.1(c), as applicable, and provided further that such Notice expressly identifies the specific Dispute and determination of the Expert, decision of the Adjudicator or the Independent Certifier, as applicable, that is to be the subject of the arbitration. 
+Confidential – Economic Interests of Ontario Page 10 
+This document must not be copied or reproduced in any manner without the written permission of Ontario Infrastructure and Lands Corporation. Queen’s Printer for Ontario © Copyright 2015. 
+7.2 
+If a Party is entitled to refer a Dispute to which Sections 5 or 6 apply to arbitration or litigation pursuant to Sections 7.1 or 9.1 then, unless the Parties otherwise expressly agree in writing, all information, documents and submissions prepared by a Party for the Expert or the Adjudicator which are not business records that would otherwise be kept in the normal course of business by the Party for its business purposes, and all decisions and determinations by the Expert or the Adjudicator, shall be confidential and inadmissible in any arbitration or litigation proceeding. For greater certainty, neither the Expert nor the Adjudicator shall be called as a witness by either party in any arbitration or litigation proceeding. 
+
+8. 
+Resolution by Arbitration 
+
+
+8.1 Upon the mutual written consent of the Parties, 
+(a) 
+where the Parties fail to resolve a Dispute through the process set out in Sections 2, 3, 4, 5 and 6 (to the extent required), and 
+
+(b) 
+all other requirements set out in this Schedule 27 have been satisfied, 
+
+
+such Dispute may be referred to arbitration in accordance with the Arbitration Act, 1991 (Ontario) and this Section. 
+8.2 Disputes referred to arbitration shall be resolved by a single arbitrator unless one of the Parties, by Notice in writing delivered to the other Party within 5 Business Days after a Notice to arbitrate pursuant to Section 7.1 has been delivered, expressly requires that the Dispute that is the subject of that Notice to arbitrate be resolved by a three person arbitration tribunal, in which case that particular Dispute shall be resolved by a three person arbitration tribunal. 
+8.3 If the arbitration tribunal is comprised of a single arbitrator, the arbitrator shall be appointed as follows: 
+(a) 
+if the Parties agree on the arbitrator, the Parties shall jointly appoint the arbitrator as soon as possible and in any event within 5 Business Days after delivery of the Notice to arbitrate pursuant to Section 7; and 
+
+(b) 
+if the Parties fail to agree or jointly appoint the arbitrator within such 5 Business Day period, either Party may apply to the Ontario Superior Court of Justice for appointment of the arbitrator, in which case the court shall appoint the arbitrator at the earliest opportunity in accordance with the following: 
+
+(i) 
+from the lists of potential arbitrators submitted to the court by the Parties, provided that potential arbitrators meeting the necessary qualifications and experience set out in this Schedule 27 are on the list; or 
+
+(ii) 
+if one Party fails to submit its list of potential arbitrators to the court within 5 Business Days of a request from the court to submit a list, from the list submitted 
+
+
+
+
+Confidential – Economic Interests of Ontario Page 11 
+This document must not be copied or reproduced in any manner without the written permission of Ontario Infrastructure and Lands Corporation. Queen’s Printer for Ontario © Copyright 2015. 
+by the other Party provided that potential arbitrators meeting the necessary qualifications and experience set out in this Schedule 27 are on the list of that other Party; or 
+(iii) if no list is submitted by either Party, or if the list or lists submitted do not include potential arbitrators with the necessary qualifications and experience, the court shall be entitled at its sole discretion to appoint anyone who meets the requirements set out in this Schedule 27 for the qualifications and experience of the arbitrator. 
+8.4 If the arbitration tribunal is comprised of three arbitrators: 
+(a) 
+the arbitrators shall be appointed as follows: 
+
+(i) 
+each Party shall appoint one arbitrator no later than 5 Business Days after delivery of the Notice to arbitrate pursuant to Section 7; 
+
+(ii) 
+if a Party fails to appoint an arbitrator within 5 Business Days after delivery of the Notice to arbitrate, the other Party is entitled to apply to the Ontario Superior Court of Justice to appoint that arbitrator, in which case the court shall appoint that arbitrator at the earliest opportunity using a comparable process to that described in Section 8.3(b); 
+
+
+(iii) the arbitrators appointed in accordance with the foregoing shall, within 5 Business Days after their appointment, jointly appoint a third arbitrator who shall also act as the chair of the arbitration tribunal and who, in addition to all other required qualifications, shall have experience in arbitration or judicial processes and procedures; and 
+(iv) if the two arbitrators appointed by the Parties fail to appoint a third arbitrator within the required time, either of the other two arbitrators may apply to the Ontario Superior Court of Justice for appointment of the third arbitrator, in which case the court shall appoint the third arbitrator at the earliest opportunity using a comparable process to that described in Section 8.3(b); and 
+
+(b) 
+the arbitrators appointed by the Parties shall at all times be neutral and act impartially and shall not act as advocates for the interests of the Party who appointed them. 
+
+
+8.5 All arbitrators must have qualifications and experience relevant to the issues in the Dispute and also have qualifications and experience as arbitrators. 
+8.6 No one shall be nominated or appointed to act as an arbitrator who is or was in any way interested, financially or otherwise, in the conduct of the Project Operations or in the business affairs of HMQ Entities, Project Co, or any consultant, subconsultant or subcontractor of any of them. 
+Confidential – Economic Interests of Ontario Page 12 
+This document must not be copied or reproduced in any manner without the written permission of Ontario Infrastructure and Lands Corporation. Queen’s Printer for Ontario © Copyright 2015. 
+8.7 The arbitrator(s) shall have the jurisdiction and power to: 
+(a) 
+amend or vary any and all rules under the Arbitration Act, 1991 (Ontario), including rules relating to time limits, either by express agreement of the Parties or, failing such agreement, as the arbitrator(s) consider appropriate and necessary in the circumstances to resolve the Dispute and render an award; 
+
+(b) 
+require some or all of the evidence to be provided by affidavit; 
+
+(c) 
+hold a hearing at which evidence and submissions are presented by the Parties; 
+
+(d) 
+direct either or both Parties to prepare and provide the arbitrator(s) with such documents, test results or other things as the arbitrator(s) may require to assist them in the resolution of the Dispute and rendering of an award; 
+
+(e) 
+require either Party to supply or prepare for examination by the arbitrator(s) and the other Party, any document or information the arbitrator(s) considers necessary; 
+
+(f) 
+inspect the Project Operations, giving reasonable Notice to each Party of the time when, and the place where, the arbitrator(s) intend(s) to conduct any inspections; 
+
+(g) 
+award any remedy or relief that a court or judge of the Ontario Superior Court of Justice could order or grant subject to and in accordance with the Project Agreement, including interim orders, interim and permanent injunctions, and specific performance; and 
+
+(h) 
+require either or both Parties to take and provide to the arbitrator(s) such measurements, perform such tests, perform such audits, or take any and all such other measures or steps as the arbitrator(s) consider necessary or desirable to aid them in making a fair and reasonable award. 
+
+
+8.8 The place of arbitration shall be Toronto, Ontario. The language of the arbitration shall be English. 
+8.9 The costs of an arbitration are in the discretion of the arbitrator(s) who, in addition to any jurisdiction and authority under applicable law to award costs, has the jurisdiction and authority to make an order for costs on such basis as the arbitrator(s) considers appropriate in the circumstances, including to award actual legal fees and disbursements and expert witness fees, and to specify or order any or all of the following: 
+(a) 
+the Party entitled to costs; 
+
+(b) 
+the Party who must pay the costs; 
+
+(c) 
+the amount of the costs or how that amount is to be determined; and 
+
+
+Confidential – Economic Interests of Ontario Page 13 
+This document must not be copied or reproduced in any manner without the written permission of Ontario Infrastructure and Lands Corporation. Queen’s Printer for Ontario © Copyright 2015. 
+(d) how all or part of the costs must be paid. 
+8.10 In exercising discretion to award costs, however, the arbitrator(s) will take into account the desire of the Parties that costs should generally be awarded to each Party in proportion to the relative success that each Party has in the arbitration. 
+8.11 The award of the arbitrator(s) shall be final and binding upon both Parties, and both Parties expressly waive all rights of appeal in connection with the award of the arbitrator(s). Judgment may be entered upon the award in accordance with Applicable Law in any court having jurisdiction. 
+8.12 The Parties agree to and shall co-operate fully with the arbitrator(s) and proceed with the arbitration expeditiously, including in respect of any hearing, in order that an award may be rendered as soon as practicable by the arbitrator(s), given the nature of the Dispute. The arbitrator(s) shall render a decision as soon as possible and, in any event, shall use all reasonable efforts to render a decision no later than 20 Business Days after the date of the hearing, or such longer period of time as agreed to in writing by the Parties. If the arbitration tribunal is comprised of three arbitrators, the decision of a majority of the arbitration tribunal shall be deemed to be the decision of the arbitration tribunal, and where there is no majority decision, the decision of the chair of the arbitration tribunal shall be deemed to be the decision of the arbitration tribunal. 
+8.13 The Project Agreement, including this Schedule 27, constitutes an agreement to arbitrate that shall be specifically enforceable. 
+8.14 
+Any arbitrator appointed pursuant to this Section 8 shall keep all information about the Dispute confidential and shall not disclose such information to anyone other than the Parties. 
+
+9. 
+Litigation 
+
+
+9.1 Notwithstanding that a Notice to arbitrate has been delivered pursuant to Section 7.1, following receipt of the Expert’s award or determination pursuant to Section 5, or of the Adjudicator’s award or determination pursuant to Section 6, or if applicable a Notice of Dispute has been issued following receipt of a decision of the Independent Certifier if the Dispute is a Dispute in relation to the Independent Certifier’s decisions for which Section 4.4 provides that Sections 5 and 6 shall not apply, if one or more of the following apply then either Party may elect, by written Notice signed by their Party Representative, to require that the Dispute be referred to and resolved solely by litigation in the Ontario Superior Court of Justice, and both Parties agree to attorn to the exclusive jurisdiction of the courts of the Province of Ontario in respect of the Dispute: 
+(a) if the actual or potential total value or amount at issue in the Dispute (as determined by adding all claims and counterclaims) is more than $500,000 (index linked) in the aggregate or $150,000 (index linked) in any one year; or 
+Confidential – Economic Interests of Ontario Page 14 
+This document must not be copied or reproduced in any manner without the written permission of Ontario Infrastructure and Lands Corporation. Queen’s Printer for Ontario © Copyright 2015. 
+(b) if the Dispute is considered by HMQ Entities to involve material issues of public health or safety. 
+Such Notice will not be effective unless it indicates it is a Notice to submit the Dispute to litigation, is signed by the Party Representative and is delivered to the other Party Representative 
+within 15 Business Days after receipt of the Expert’s determination, the Adjudicator’s 
+determination, or the Notice of Dispute referred to in Section 7.1(c), as applicable, and provided further that such Notice expressly identifies the specific Dispute and determination of the Adjudicator, Expert or Independent Certifier, as applicable, that is to be the subject of the litigation. 
+9.2 If neither Party delivers a Notice of election to resolve a particular Dispute by litigation in the manner and within the time specified in Section 9.1, then: 
+(a) 
+provided that one Party has, in the manner and within the time period specified in Section 7.1, given Notice to the other Party of election to resolve that Dispute by arbitration, and subject to a consolidation of proceedings pursuant to Section 11, that Dispute shall be resolved only by arbitration pursuant to Sections 8.2 to 8.14; and 
+
+(b) 
+subject to Section 9.2(a), where a Dispute was determined by the Expert, the Expert’s determination is final and binding on both Parties and not subject to appeal, arbitration, litigation or any other dispute resolution process. 
+
+
+10. Consolidation of Project Agreement Adjudication, Arbitration and Litigation 
+10.1 For all Disputes that arise prior to Substantial Completion, unless: 
+(a) 
+both Parties otherwise agree; or 
+
+(b) 
+the issue in a particular Dispute arises in connection with the Review Procedure; or 
+
+(c) 
+the issue in a particular Dispute is such that waiting until after Substantial Completion to resolve that Dispute will cause irreparable harm to one of the Parties; or 
+
+(d) 
+the issue in a particular Dispute arises in connection with requirements of achieving or deficiencies in not achieving Substantial Completion; or 
+
+(e) 
+in respect to a particular Dispute, the Dispute is consolidated with Third Party Disputes (as hereinafter defined) pursuant to Section 11; 
+
+
+all adjudication, arbitral and litigation proceedings between the Parties prior to Substantial Completion shall be stayed and consolidated into, as applicable, a single adjudication, arbitration and a single litigation proceeding, with the adjudication, arbitration and, if applicable, litigation, proceeding promptly and expeditiously after Substantial Completion. 
+Confidential – Economic Interests of Ontario Page 15 
+This document must not be copied or reproduced in any manner without the written permission of Ontario Infrastructure and Lands Corporation. Queen’s Printer for Ontario © Copyright 2015. 
+11. Consolidation with Third Party Disputes 
+11.1 Subject to Section 11.4, if either Party is involved in an arbitration in the Province of Ontario 
+with a third party (“Third Party Arbitration”), and if such Third Party Arbitration involves 
+common factual or legal issues (including common issues of damages) which are also the subject of a Dispute between the Parties for which a Notice of Dispute has been given, then any arbitration of the Dispute between the Parties which includes those common factual, legal or damages issues (“Project Agreement Arbitration”) shall be stayed, consolidated or joined with the Third Party Arbitration(s) but only if HMQ Entities, Project Co and the other parties all agree or, failing their agreement, if a court in the Province of Ontario on application considers it just and convenient in all the circumstances that the Project Agreement Arbitration should be stayed or consolidated or joined with the Third Party Arbitration. 
+11.2 Subject to Section 11.4, if either Party is involved in litigation in the Province of Ontario with a 
+third party (“Third Party Litigation”) and if: 
+(a) 
+such Third Party Litigation involves common factual or legal issues (including common issues of damages) which are the subject of a Project Agreement Arbitration; and 
+
+(b) 
+one of the Parties is brought directly into the Third Party Litigation as a party to that litigation, 
+
+
+then on the application of either Party to the court in the Province of Ontario having jurisdiction the court may, if it determines that it is just and convenient in all the circumstances, order a stay of either or both the Project Agreement Arbitration proceeding and Third Party Litigation, or order a joinder of the Project Agreement Arbitration and the Third Party Litigation. If such joinder is ordered, the Project Agreement Arbitration and the Third Party Litigation ordered to be joined by the court shall be determined by that court or by another court in Ontario such that the Project Agreement Arbitration and the Third Party Litigation shall be resolved in one forum. For purposes of the foregoing, joinder of the Project Agreement Arbitration and the Third Party Litigation shall be construed to include stays and conditional stays of issues in the Project Agreement Arbitration pending the commencement and completion of third party proceedings by one or both of the Parties in the Third Party Litigation. 
+11.3 In considering whether to order a stay, consolidation or joinder of a Project Agreement Arbitration with a Third Party Arbitration or Third Party Litigation, the court will be entitled to give substantial weight to the desire by the Parties that all Disputes which are related to Third Party Arbitration or Third Party Litigation be resolved in a single forum to avoid multiplicity of proceedings and the potential for contradictory findings of fact, liability and quantum, and to ensure the arbitrator or court has the advantage of obtaining full evidence and disclosure from the Parties and from the other parties, as applicable and as required to resolve the Dispute and to make findings of fact, liability and quantum of damages and awards or judgments binding on the Parties based on all available evidence. 
+11.4 Sections 11.1 and 11.2 only apply: 
+Confidential – Economic Interests of Ontario Page 16 
+This document must not be copied or reproduced in any manner without the written permission of Ontario Infrastructure and Lands Corporation. Queen’s Printer for Ontario © Copyright 2015. 
+(a) 
+if the Dispute between the Parties includes a claim by one Party against the other for contribution or indemnity for that Party’s liability or potential liability to the third party where such liability results or will result from an award in the Third Party Arbitration or a judgment in the Third Party Litigation; and 
+
+(b) 
+to those specific issues that are common issues in the Project Agreement Arbitration, the Third Party Arbitration and the Third Party Litigation, such that all other issues in the Dispute shall continue to be resolved by Project Agreement Arbitration and shall not be consolidated with the Third Party Arbitration or Third Party Litigation. 
+
+
+12. 
+[Intentionally Deleted] 
+
+13. 
+Miscellaneous 
+
+
+13.1 Project Co and HMQ Entities shall diligently carry out their respective obligations under the Project Agreement during the pendency of any Disputes, including adjudication proceedings, arbitration proceedings or litigation proceedings. If during the pendency of any Dispute it is considered necessary by either Party to proceed in respect of the matter that is in Dispute, then without prejudice to Project Co’s rights in respect of the Dispute (including in respect of Delay Events, Compensation Events and Variations), Project Co shall proceed in accordance with the direction of HMQ Entities, and in the event the matter in dispute is determined in favour of Project Co, then, to the extent that such Dispute affects the Project Co System Infrastructure or the New Third Party Infrastructure, proceeding in accordance with HMQ Entities’ position (i) prior to Substantial Completion shall, subject to and in accordance with Section 40 of the Project Agreement, be treated as a Delay Event and, subject to and in accordance with Section 41 of the Project Agreement, be treated as a Compensation Event, and (ii) following Substantial Completion shall, subject to and in accordance with Schedule 22 – Variation Procedure, result in a Variation. For greater certainty, in respect of any Dispute relating to the Works referred to in Section 4.2, the Independent Certifier shall be the decision maker of first instance and the Parties shall comply with the initial decision of the Independent Certifier unless and until it is overturned in a subsequent arbitration or litigation proceeding. 
+13.2 Nothing contained in this Schedule 27 will prevent the Parties from seeking interim protection from the courts of the Province of Ontario, including seeking an interlocutory injunction where available pursuant to Applicable Law, if necessary to prevent irreparable harm to a Party. 
+13.3 The Parties shall indemnify each other in respect of any damages suffered or incurred on amounts agreed to be paid pursuant to resolution of a Dispute by the Party Representatives or by the executives of the Parties pursuant to Sections 2 and 3 and on the amount of any award or judgment as follows: 
+(a) for amounts payable by Project Co to HMQ Entities, Project Co shall indemnify HMQ Entities as provided for at Section 56.1(e) of the Project Agreement from and against any damages suffered or incurred resulting from any overpayment to Project Co or, as applicable, any underpayment or non-payment by Project Co from the date of any 
+Confidential – Economic Interests of Ontario Page 17 
+This document must not be copied or reproduced in any manner without the written permission of Ontario Infrastructure and Lands Corporation. Queen’s Printer for Ontario © Copyright 2015. 
+overpayment to Project Co or, as applicable, from the date on which payment was due under the Project Agreement to HMQ Entities until the date of payment; or 
+(b) for amounts payable by HMQ Entities to Project Co, HMQ Entities shall indemnify Project Co as provided for at Section 56.2(c) of the Project Agreement from and against any damages suffered or incurred resulting from any overpayment to HMQ Entities or, as applicable, any underpayment or non-payment by HMQ Entities from the date of any overpayment to HMQ Entities or, as applicable, from the date on which payment was due under the Project Agreement to Project Co until the date of payment. 
+13.4 Project Co shall ensure that any and all documents and other information in the possession or control of any Project Co Party that are available to Project Co and that may be necessary for the resolution of a Dispute on an informed basis by the Party Representatives or by the executives of the Parties pursuant to Sections 2 and 3, or by an expert, an adjudicator, an arbitrator or court of competent jurisdiction, are made available in a timely manner to HMQ Entities and the HMQ Representative. 
+13.5 HMQ Entities shall ensure that any and all documents and other information in the possession or control of any HMQ Party that are available to HMQ Entities and that may be necessary for the resolution of a Dispute on an informed basis by the Party Representatives or by the executives of the Parties pursuant to Sections 2 and 3, or by an adjudicator, an arbitrator or court of competent jurisdiction, are made available in a timely manner to Project Co and the Project Co Representative. 
+13.6 The Parties can, by written agreement, on a Dispute by Dispute basis: 
+(a) 
+extend any or all timelines set out in this Schedule 27; 
+
+(b) 
+agree to waive or by-pass any one or more of the Dispute resolution processes in Sections 2, 3, 4, 5 and 6 and, instead, proceed directly to resolution of the Dispute by arbitration or litigation pursuant to Sections 7, 8 and 9; 
+
+(c) 
+agree to (i) resolve a Dispute by litigation rather than adjudication or arbitration notwithstanding the requirements of Section 6 and Section 8, or (ii) agree to resolve a Dispute by arbitration rather than adjudication or litigation notwithstanding the requirements of Section 6 and Section 9, or (iii) agree to resolve a Dispute by adjudication rather than arbitration or litigation notwithstanding the requirements of Section 8 and Section 9; and 
+
+
+agree to resolve a Dispute relating to the decision of an Expert by adjudication, arbitration or litigation, notwithstanding the provisions of Section 5. 
+12613431.22 
+Confidential – Economic Interests of Ontario Page 18 
+This document must not be copied or reproduced in any manner without the written permission of Ontario Infrastructure and Lands Corporation. Queen’s Printer for Ontario © Copyright 2015. 
+
